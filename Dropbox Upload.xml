@@ -137,7 +137,7 @@
       <ScriptCommand xsi:type="CommentCommand" CommandID="975a352c-4479-4c8c-a996-11b917d9358f" CommandName="CommentCommand" IsCommented="false" SelectionName="Comment Line" DefaultPause="0" LineNumber="11" PauseBeforeExeucution="false" v_Comment="Set the login credentials" CommandEnabled="true" />
     </ScriptAction>
     <ScriptAction>
-      <ScriptCommand xsi:type="VariableCommand" CommandID="29238977-e956-4554-bae2-7bcf3f89303e" CommandName="VariableCommand" IsCommented="false" SelectionName="Set Variable" DefaultPause="0" LineNumber="12" PauseBeforeExeucution="false" CommandEnabled="true" v_userVariableName="username" v_Input="dropbox_username" />
+      <ScriptCommand xsi:type="VariableCommand" CommandID="29238977-e956-4554-bae2-7bcf3f89303e" CommandName="VariableCommand" IsCommented="false" SelectionName="Set Variable" DefaultPause="0" LineNumber="12" PauseBeforeExeucution="false" CommandEnabled="true" v_userVariableName="username" v_Input="dropbox__username" />
     </ScriptAction>
     <ScriptAction>
       <ScriptCommand xsi:type="VariableCommand" CommandID="4991c4a6-2fef-4b96-95a1-bfb75517084e" CommandName="VariableCommand" IsCommented="false" SelectionName="Set Variable" DefaultPause="0" LineNumber="13" PauseBeforeExeucution="false" CommandEnabled="true" v_userVariableName="password" v_Input="password" />

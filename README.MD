@@ -37,5 +37,5 @@ This bot can login to your dropbox account and download a file you want using th
 3. Save the bot.
 4. Run the bot.
 
-> ***Please Note:*** While the bot is running you will be prompted to enter the filename you want to download. Please enter the correct filename with extension.
+> ***Please Note:*** While the bot is running you will be prompted to enter the filename you want to download. Please enter the correct filename with proper extension.
 
